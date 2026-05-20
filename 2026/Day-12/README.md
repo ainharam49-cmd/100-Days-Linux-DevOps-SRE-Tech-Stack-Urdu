@@ -16,9 +16,9 @@ g
 | 2 | [Linux Module Select Karna](#task-2-select-the-linux-module) |
 | 3 | [Tamam 4 Lessons Complete Karna](#note-there-are-a-total-of-four-4-lessons-that-you-must-complete-in-killercoda) |
 | 4 | [Lesson 1 - List Files](#task-4-lesson1---list-files) |
-| 5 | [Lesson 2 - Aapka Best Friend "man"](#task-2-lesson-2---your-best-friend-man) |
-| 6 | [Lesson 3 - Files Create aur Delete Karna](#task-3-lesson-3---create-and-delete-files) |
-| 7 | [Lesson 4 - Files Create aur Delete Karna](#task-4-lesson-4---create-and-delete-files) |
+| 5 | [Lesson 2 - Aapka Best Friend "man"](#task-2-lesson-2---aapka-best-friennd-man) |
+| 6 | [Lesson 3 - Files Directories kay saat kaam kareain](#task-3-lesson-3---directories-kay-saat-kaam-kareain) |
+| 7 | [Lesson 4 - Files Create aur Delete Karna](#task-4-lesson-4---filoes-create-aur-delete-karna) |
 | 8 | [Final Submission](#final-submission) |
 
 ---
@@ -98,7 +98,7 @@ Agar aap complete kar chuke hain to Congratulations!
 
 ---
 
-### Task 3: Lesson 3 - Directories kay saat kaam karain
+### Task 3: Lesson 3 - Directories kay saat kaam kareain
 
 <img src="../../.github/assets/intro12_killercoda.jpeg" width="250">
 
