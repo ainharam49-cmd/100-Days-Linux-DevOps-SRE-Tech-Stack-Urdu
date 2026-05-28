@@ -1,15 +1,11 @@
-# NIT VIDEO
+## NIT VIDEO
 
-> May 26th, 2026 - Day 18
+> May 26th, Day 18
 
----
+Please watch this video
 
-# Instructions
+[Watch Video](https://www.youtube.com/watch?v=SpQbSKIPvyk)
 
-Please is video ko dhyan se dekhein.
-~~~text
-https://www.youtube.com/watch?v=SpQbSKIPvyk
----
 
 # Objective
 
